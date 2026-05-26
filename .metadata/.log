@@ -1,0 +1,1555 @@
+!SESSION 2026-05-26 13:35:20.830 -----------------------------------------------
+eclipse.buildId=2025.1.5.34
+java.version=17.0.16
+java.vendor=Axiom JSC
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\EDT Projects\Graduation
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:35:32.566
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:35:32.575
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.e1c.g5.v8.dt.platform.standaloneserver.wst.core 1 0 2026-05-26 13:35:35.451
+!MESSAGE Начат однократный процесс перевода на новую версию: Переключение на сервер отладки, встроенный в автономный сервер.
+
+!ENTRY com.company1c.link.ide.edt 1 0 2026-05-26 13:35:39.301
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in C:\EDT Projects\Graduation\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY org.eclipse.ui.navigator 4 0 2026-05-26 13:35:44.385
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2026-05-26 13:35:45.297
+!MESSAGE Файл настроек программы запуска 1С:Предприятие не существует. Невозможно загрузить из него местонахождение списка зарегистрированных информационных баз: C:\ProgramData\Application Data\1C\1CEStart\1cestart.cfg
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2026-05-26 13:35:48.636
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2026-05-26 13:35:48.637
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 1 0 2026-05-26 13:36:03.173
+!MESSAGE Установки платформы 1С:Предприятие не обнаружены.
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:36:11.563
+!MESSAGE Получение списка расширений конфигурации в информационной базе Graduation : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2026-05-26 13:36:37.533
+!MESSAGE Импорт конфигурации из информационной базы...
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 1 0 2026-05-26 13:36:37.537
+!MESSAGE Проект Graduation импортируется из информационной базы
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:36:37.549
+!MESSAGE Выгрузка конфигурации из информационной базы во временный каталог
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:36:37.552
+!MESSAGE Выгрузка конфигурации из информационной базы Graduation : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:36:52.217
+!MESSAGE Создание проекта конфигурации Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:36:52.293
+!MESSAGE Импорт XML в проект конфигурации Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:36:57.041
+!MESSAGE Обновление содержимого проекта: Graduation
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:36:59.249
+!MESSAGE Project context is being started: Graduation (CLEAN_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:37:01.039
+!MESSAGE Starting phase LINKING of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:37:01.039
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:37:01.566
+!MESSAGE Starting phase CHECKING of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:37:01.573
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:37:02.022
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:37:06.675
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:37:06.884
+!MESSAGE Project context is started: Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:37:06.939
+!MESSAGE Установка соединения для проекта Graduation и информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:37:07.020
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 13:37:18.649
+!MESSAGE AI response /api/v1/create_session
+status code: 401
+duration: PT0.0390686S
+(POST https://code.1c.ai/api/v1/create_session) 401
+{"error":"No token provided","error_type":"no_token"}
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 13:37:18.668
+!MESSAGE AI HTTP session response status code is 401
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 4 0 2026-05-26 13:37:21.450
+!MESSAGE Project Graduation should have persisted synchronization state, but persisted state not found. Unsynchronized state will be used.
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:37:21.465
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2026-05-26 13:37:56.642
+!MESSAGE CPU overload. Memory 3955750576 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:42:00.132
+!MESSAGE Установка соединения для проекта Graduation и информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:42:00.150
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:42:00.171
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:44:25.806
+!MESSAGE Попытка удаления проекта: Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2026-05-26 13:44:25.807
+!MESSAGE Очистка ресурсов и удаление приложения Graduation проекта Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:44:25.816
+!MESSAGE Разрыв соединения между проектом Graduation и информационной базой Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:44:25.827
+!MESSAGE Остановка агента конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:44:26.000
+!MESSAGE Project context is being stopped: Graduation (DELETE)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:44:27.448
+!MESSAGE Разрыв соединения между проектом Graduation и информационной базой Graduation
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:44:27.733
+!MESSAGE Project context is stopped: Graduation
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2026-05-26 13:44:42.146
+!MESSAGE EDT закрывается
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2026-05-26 13:44:42.575
+!MESSAGE Saving dialog settings
+!SESSION 2026-05-26 13:46:28.892 -----------------------------------------------
+eclipse.buildId=2025.1.5.34
+java.version=17.0.16
+java.vendor=Axiom JSC
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\EDT WS\GraduationWS
+
+!ENTRY org.eclipse.core.resources 4 567 2026-05-26 13:46:33.466
+!MESSAGE Рабочая область восстановлена с ошибками.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2026-05-26 13:46:33.466
+!MESSAGE Не удалось прочитать метаданные: .org.eclipse.egit.core.cmp.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/.org.eclipse.egit.core.cmp)[567]: java.lang.Exception: Отсутствует файл описания проекта (.project) для .org.eclipse.egit.core.cmp. В этом файле содержится важная информация о проекте. Правильная работа проекта возможна только после восстановления этого файла.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:955)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:954)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:934)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:790)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1616)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2620)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2324)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:571)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:1)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:947)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:258)
+	at org.osgi.util.tracker.AbstractTracked.trackInitial(AbstractTracked.java:185)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:324)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:267)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:545)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:818)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:810)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:767)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1032)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:371)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:513)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:570)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:335)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:397)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:496)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at com.e1c.g5.dt.core.start.internal.StartPlugin.lambda$0(StartPlugin.java:95)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2026-05-26 13:46:33.474
+!MESSAGE Отсутствует файл описания проекта (.project) для .org.eclipse.egit.core.cmp. В этом файле содержится важная информация о проекте. Правильная работа проекта возможна только после восстановления этого файла.
+!STACK 0
+java.lang.Exception: Отсутствует файл описания проекта (.project) для .org.eclipse.egit.core.cmp. В этом файле содержится важная информация о проекте. Правильная работа проекта возможна только после восстановления этого файла.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:955)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:954)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:934)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:790)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1616)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2620)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2324)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:571)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:1)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:947)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:258)
+	at org.osgi.util.tracker.AbstractTracked.trackInitial(AbstractTracked.java:185)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:324)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:267)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:545)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:818)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:810)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:767)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1032)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:371)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:513)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:570)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:335)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:397)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:496)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at com.e1c.g5.dt.core.start.internal.StartPlugin.lambda$0(StartPlugin.java:95)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:46:35.280
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:46:35.289
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.company1c.link.ide.edt 1 0 2026-05-26 13:46:37.422
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in C:\EDT WS\GraduationWS\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY org.eclipse.ui.navigator 4 0 2026-05-26 13:46:43.627
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2026-05-26 13:46:46.221
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2026-05-26 13:46:46.222
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2026-05-26 13:46:49.134
+!MESSAGE Файл настроек программы запуска 1С:Предприятие не существует. Невозможно загрузить из него местонахождение списка зарегистрированных информационных баз: C:\ProgramData\Application Data\1C\1CEStart\1cestart.cfg
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:46:53.113
+!MESSAGE Получение списка расширений конфигурации в информационной базе Graduation : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 4 0 2026-05-26 13:46:59.695
+!MESSAGE Ошибка загрузки списка расширений
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.loadExtensions(ExtensionsViewer.java:189)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$16(ImportConfigurationWizardPage.java:668)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases.RuntimeOperationSupport.execRuntimeOperation(RuntimeOperationSupport.java:93)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$15(ImportConfigurationWizardPage.java:666)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: java.util.concurrent.ExecutionException: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.syncExec(ProgressMonitorAwareExecutor.java:95)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.loadExtensions(ExtensionsViewer.java:163)
+	... 4 more
+Caused by: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:385)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:103)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.ThickClientLauncher.listConfigurationExtensions(ThickClientLauncher.java:745)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.listConfigurationExtensions(DesignerSessionThickClientLauncher.java:1034)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.lambda$0(ExtensionsViewer.java:170)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.lambda$0(ProgressMonitorAwareExecutor.java:61)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Root exception:
+java.util.concurrent.ExecutionException: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.syncExec(ProgressMonitorAwareExecutor.java:95)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.loadExtensions(ExtensionsViewer.java:163)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$16(ImportConfigurationWizardPage.java:668)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases.RuntimeOperationSupport.execRuntimeOperation(RuntimeOperationSupport.java:93)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$15(ImportConfigurationWizardPage.java:666)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:385)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:103)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.ThickClientLauncher.listConfigurationExtensions(ThickClientLauncher.java:745)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.listConfigurationExtensions(DesignerSessionThickClientLauncher.java:1034)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.lambda$0(ExtensionsViewer.java:170)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.lambda$0(ProgressMonitorAwareExecutor.java:61)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:47:09.718
+!MESSAGE Обновление списка зарегистрированных информационных баз
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2026-05-26 13:47:09.721
+!MESSAGE Файл настроек программы запуска 1С:Предприятие не существует. Невозможно загрузить из него местонахождение списка зарегистрированных информационных баз: C:\ProgramData\Application Data\1C\1CEStart\1cestart.cfg
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:49:02.797
+!MESSAGE Получение списка расширений конфигурации в информационной базе Graduation : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 4 0 2026-05-26 13:49:11.315
+!MESSAGE Ошибка загрузки списка расширений
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.loadExtensions(ExtensionsViewer.java:189)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$16(ImportConfigurationWizardPage.java:668)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases.RuntimeOperationSupport.execRuntimeOperation(RuntimeOperationSupport.java:93)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$15(ImportConfigurationWizardPage.java:666)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: java.util.concurrent.ExecutionException: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.syncExec(ProgressMonitorAwareExecutor.java:95)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.loadExtensions(ExtensionsViewer.java:163)
+	... 4 more
+Caused by: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:385)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:103)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.ThickClientLauncher.listConfigurationExtensions(ThickClientLauncher.java:745)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.listConfigurationExtensions(DesignerSessionThickClientLauncher.java:1034)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.lambda$0(ExtensionsViewer.java:170)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.lambda$0(ProgressMonitorAwareExecutor.java:61)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Root exception:
+java.util.concurrent.ExecutionException: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.syncExec(ProgressMonitorAwareExecutor.java:95)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.loadExtensions(ExtensionsViewer.java:163)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$16(ImportConfigurationWizardPage.java:668)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases.RuntimeOperationSupport.execRuntimeOperation(RuntimeOperationSupport.java:93)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$15(ImportConfigurationWizardPage.java:666)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:385)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:103)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.ThickClientLauncher.listConfigurationExtensions(ThickClientLauncher.java:745)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.listConfigurationExtensions(DesignerSessionThickClientLauncher.java:1034)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.lambda$0(ExtensionsViewer.java:170)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.lambda$0(ProgressMonitorAwareExecutor.java:61)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2026-05-26 13:49:59.135
+!MESSAGE EDT закрывается
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2026-05-26 13:49:59.439
+!MESSAGE Saving dialog settings
+!SESSION 2026-05-26 13:50:19.749 -----------------------------------------------
+eclipse.buildId=2025.1.5.34
+java.version=17.0.16
+java.vendor=Axiom JSC
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\EDT WS\GraduationWS
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:50:27.567
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:50:27.578
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.company1c.link.ide.edt 1 0 2026-05-26 13:50:29.632
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in C:\EDT WS\GraduationWS\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY org.eclipse.ui.navigator 4 0 2026-05-26 13:50:35.340
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2026-05-26 13:50:35.840
+!MESSAGE Файл настроек программы запуска 1С:Предприятие не существует. Невозможно загрузить из него местонахождение списка зарегистрированных информационных баз: C:\ProgramData\Application Data\1C\1CEStart\1cestart.cfg
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2026-05-26 13:50:38.376
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2026-05-26 13:50:38.377
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:50:55.716
+!MESSAGE Получение списка расширений конфигурации в информационной базе Graduation : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 4 0 2026-05-26 13:51:02.184
+!MESSAGE Ошибка загрузки списка расширений
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.loadExtensions(ExtensionsViewer.java:189)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$16(ImportConfigurationWizardPage.java:668)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases.RuntimeOperationSupport.execRuntimeOperation(RuntimeOperationSupport.java:93)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$15(ImportConfigurationWizardPage.java:666)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: java.util.concurrent.ExecutionException: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.syncExec(ProgressMonitorAwareExecutor.java:95)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.loadExtensions(ExtensionsViewer.java:163)
+	... 4 more
+Caused by: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:385)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:103)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.ThickClientLauncher.listConfigurationExtensions(ThickClientLauncher.java:745)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.listConfigurationExtensions(DesignerSessionThickClientLauncher.java:1034)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.lambda$0(ExtensionsViewer.java:170)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.lambda$0(ProgressMonitorAwareExecutor.java:61)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Root exception:
+java.util.concurrent.ExecutionException: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.syncExec(ProgressMonitorAwareExecutor.java:95)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.loadExtensions(ExtensionsViewer.java:163)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$16(ImportConfigurationWizardPage.java:668)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases.RuntimeOperationSupport.execRuntimeOperation(RuntimeOperationSupport.java:93)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ImportConfigurationWizardPage.lambda$15(ImportConfigurationWizardPage.java:666)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: com._1c.g5.v8.dt.platform.services.core.runtimes.execution.RuntimeExecutionException: Ошибка взаимодействия с платформой 1С:Предприятия 8.3.27.1606:
+Журнал процесса платформы [код ошибки 1]:
+Не найдена лицензия. Не обнаружен ключ защиты программы или полученная программная лицензия!
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:385)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.AbstractRuntimeComponentExecutor.executeRuntimeProcessCommand(AbstractRuntimeComponentExecutor.java:103)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.ThickClientLauncher.listConfigurationExtensions(ThickClientLauncher.java:745)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.listConfigurationExtensions(DesignerSessionThickClientLauncher.java:1034)
+	at com._1c.g5.v8.dt.internal.platform.services.ui.infobases._import.ExtensionsViewer.lambda$0(ExtensionsViewer.java:170)
+	at com._1c.g5.v8.dt.platform.services.core.ProgressMonitorAwareExecutor.lambda$0(ProgressMonitorAwareExecutor.java:61)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2026-05-26 13:51:11.098
+!MESSAGE EDT закрывается
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2026-05-26 13:51:11.368
+!MESSAGE Saving dialog settings
+!SESSION 2026-05-26 13:52:33.951 -----------------------------------------------
+eclipse.buildId=2025.1.5.34
+java.version=17.0.16
+java.vendor=Axiom JSC
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\EDT WS\GraduationWS
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:52:40.779
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:52:40.789
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.company1c.link.ide.edt 1 0 2026-05-26 13:52:42.843
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in C:\EDT WS\GraduationWS\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY org.eclipse.ui.navigator 4 0 2026-05-26 13:52:48.675
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2026-05-26 13:52:49.085
+!MESSAGE Файл настроек программы запуска 1С:Предприятие не существует. Невозможно загрузить из него местонахождение списка зарегистрированных информационных баз: C:\ProgramData\Application Data\1C\1CEStart\1cestart.cfg
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2026-05-26 13:52:51.359
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2026-05-26 13:52:51.360
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:53:52.948
+!MESSAGE Получение списка расширений конфигурации в информационной базе Graduation : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2026-05-26 13:54:02.680
+!MESSAGE Импорт конфигурации из информационной базы...
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 1 0 2026-05-26 13:54:02.684
+!MESSAGE Проект Graduation импортируется из информационной базы
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:54:02.692
+!MESSAGE Выгрузка конфигурации из информационной базы во временный каталог
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:54:02.698
+!MESSAGE Выгрузка конфигурации из информационной базы Graduation : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:54:13.145
+!MESSAGE Создание проекта конфигурации Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:54:13.219
+!MESSAGE Импорт XML в проект конфигурации Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:54:18.316
+!MESSAGE Обновление содержимого проекта: Graduation
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:54:20.575
+!MESSAGE Project context is being started: Graduation (CLEAN_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:54:22.521
+!MESSAGE Starting phase LINKING of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:54:22.522
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:54:23.081
+!MESSAGE Starting phase CHECKING of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:54:23.085
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:54:23.421
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 13:54:27.710
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Graduation
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 13:54:27.851
+!MESSAGE Project context is started: Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:54:27.895
+!MESSAGE Установка соединения для проекта Graduation и информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:54:27.959
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 4 0 2026-05-26 13:54:43.553
+!MESSAGE Project Graduation should have persisted synchronization state, but persisted state not found. Unsynchronized state will be used.
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:54:43.561
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:56:52.959
+!MESSAGE Установка соединения для проекта Graduation и информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:56:52.970
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:56:52.994
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:58:05.996
+!MESSAGE Установка соединения для проекта Graduation и информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 13:58:06.001
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 14:16:02.775
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 14:16:02.797
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 14:17:24.038
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 14:17:24.039
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 14:17:30.685
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 14:17:30.686
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 14:19:55.952
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 14:19:55.952
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 14:21:54.385
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 14:21:54.387
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 14:22:53.896
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 14:22:53.897
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2026-05-26 15:25:44.114
+!MESSAGE CPU overload. Memory 3959233304 used of 4294967296
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:01:27.863
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:01:27.864
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:02:21.995
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:02:21.997
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:02:27.519
+!MESSAGE Nothing to fetch.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Nothing to fetch.
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI.execute(FetchOperationUI.java:114)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI$1.performJob(FetchOperationUI.java:137)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.api.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:358)
+	at org.eclipse.egit.core.op.FetchOperation.run(FetchOperation.java:134)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI.execute(FetchOperationUI.java:111)
+	... 3 more
+Caused by: org.eclipse.jgit.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.transport.Transport.fetch(Transport.java:1458)
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:343)
+	... 5 more
+!SUBENTRY 1 org.eclipse.egit.ui 4 0 2026-05-26 17:02:27.520
+!MESSAGE Nothing to fetch.
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:358)
+	at org.eclipse.egit.core.op.FetchOperation.run(FetchOperation.java:134)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI.execute(FetchOperationUI.java:111)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI$1.performJob(FetchOperationUI.java:137)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.transport.Transport.fetch(Transport.java:1458)
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:343)
+	... 5 more
+
+!ENTRY com._1c.g5.v8.dt.incidentmanagement.ui 4 0 2026-05-26 17:02:27.529
+!MESSAGE Incident being processed:Ошибка операции EGit
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:03:10.504
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:03:10.505
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:03:12.819
+!MESSAGE Nothing to fetch.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Nothing to fetch.
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI.execute(FetchOperationUI.java:114)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI$1.performJob(FetchOperationUI.java:137)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.api.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:358)
+	at org.eclipse.egit.core.op.FetchOperation.run(FetchOperation.java:134)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI.execute(FetchOperationUI.java:111)
+	... 3 more
+Caused by: org.eclipse.jgit.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.transport.Transport.fetch(Transport.java:1458)
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:343)
+	... 5 more
+!SUBENTRY 1 org.eclipse.egit.ui 4 0 2026-05-26 17:03:12.819
+!MESSAGE Nothing to fetch.
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:358)
+	at org.eclipse.egit.core.op.FetchOperation.run(FetchOperation.java:134)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI.execute(FetchOperationUI.java:111)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI$1.performJob(FetchOperationUI.java:137)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.transport.Transport.fetch(Transport.java:1458)
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:343)
+	... 5 more
+
+!ENTRY com._1c.g5.v8.dt.incidentmanagement.ui 4 0 2026-05-26 17:03:12.829
+!MESSAGE Incident being processed:Ошибка операции EGit
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:03:43.417
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:307)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:03:43.418
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:04:47.433
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:307)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:04:47.433
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY com._1c.g5.v8.dt.incidentmanagement.ui 4 0 2026-05-26 17:04:54.121
+!MESSAGE Incident being processed:Ошибка операции EGit
+
+!ENTRY com._1c.g5.v8.dt.incidentmanagement.ui 4 0 2026-05-26 17:04:55.775
+!MESSAGE Incident being processed:Ошибка операции EGit
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:05:17.127
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:307)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:05:17.128
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:08:35.342
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:08:35.343
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:11:10.337
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:11:10.338
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:13:12.552
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:13:12.553
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:13:29.750
+!MESSAGE Nothing to fetch.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Nothing to fetch.
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI.execute(FetchOperationUI.java:114)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI$1.performJob(FetchOperationUI.java:137)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.api.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:358)
+	at org.eclipse.egit.core.op.FetchOperation.run(FetchOperation.java:134)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI.execute(FetchOperationUI.java:111)
+	... 3 more
+Caused by: org.eclipse.jgit.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.transport.Transport.fetch(Transport.java:1458)
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:343)
+	... 5 more
+!SUBENTRY 1 org.eclipse.egit.ui 4 0 2026-05-26 17:13:29.750
+!MESSAGE Nothing to fetch.
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:358)
+	at org.eclipse.egit.core.op.FetchOperation.run(FetchOperation.java:134)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI.execute(FetchOperationUI.java:111)
+	at org.eclipse.egit.ui.internal.fetch.FetchOperationUI$1.performJob(FetchOperationUI.java:137)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: Nothing to fetch.
+	at org.eclipse.jgit.transport.Transport.fetch(Transport.java:1458)
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:343)
+	... 5 more
+
+!ENTRY com._1c.g5.v8.dt.incidentmanagement.ui 4 0 2026-05-26 17:13:29.771
+!MESSAGE Incident being processed:Ошибка операции EGit
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:14:05.458
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:14:05.459
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:18:49.686
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:18:49.687
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:21:45.917
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:21:45.919
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:28:40.462
+!MESSAGE Transport Error: Cannot get remote repository refs.
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/Graduation: not authorized
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:203)
+	at org.eclipse.jgit.api.LsRemoteCommand.call(LsRemoteCommand.java:133)
+	at org.eclipse.egit.core.op.ListRemoteOperation.run(ListRemoteOperation.java:116)
+	at org.eclipse.egit.ui.internal.components.RefSpecPage$2.run(RefSpecPage.java:254)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/Graduation: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.openFetch(TransportHttp.java:468)
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:181)
+	... 4 more
+
+!ENTRY com._1c.g5.v8.dt.incidentmanagement.ui 4 0 2026-05-26 17:28:40.477
+!MESSAGE Incident being processed:Ошибка операции EGit
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:29:54.458
+!MESSAGE Transport Error: Cannot get remote repository refs.
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/Graduation: not authorized
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:203)
+	at org.eclipse.jgit.api.LsRemoteCommand.call(LsRemoteCommand.java:133)
+	at org.eclipse.egit.core.op.ListRemoteOperation.run(ListRemoteOperation.java:116)
+	at org.eclipse.egit.ui.internal.components.RefSpecPage$2.run(RefSpecPage.java:254)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/Graduation: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.openFetch(TransportHttp.java:468)
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:181)
+	... 4 more
+
+!ENTRY com._1c.g5.v8.dt.incidentmanagement.ui 4 0 2026-05-26 17:29:54.469
+!MESSAGE Incident being processed:Ошибка операции EGit
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:32:49.604
+!MESSAGE Transport Error: Cannot get remote repository refs.
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/Graduation: not authorized
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:203)
+	at org.eclipse.jgit.api.LsRemoteCommand.call(LsRemoteCommand.java:133)
+	at org.eclipse.egit.core.op.ListRemoteOperation.run(ListRemoteOperation.java:116)
+	at org.eclipse.egit.ui.internal.components.RefSpecPage$2.run(RefSpecPage.java:254)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/Graduation: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.openFetch(TransportHttp.java:468)
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:181)
+	... 4 more
+
+!ENTRY com._1c.g5.v8.dt.incidentmanagement.ui 4 0 2026-05-26 17:32:49.615
+!MESSAGE Incident being processed:Ошибка операции EGit
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:34:27.552
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:34:27.554
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:35:34.260
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: git-receive-pack not permitted on 'https://github.com/LanaVin951/GraduationTeam/'
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: git-receive-pack not permitted on 'https://github.com/LanaVin951/GraduationTeam/'
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: git-receive-pack not permitted on 'https://github.com/LanaVin951/GraduationTeam/'
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:704)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:35:34.262
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: git-receive-pack not permitted on 'https://github.com/LanaVin951/GraduationTeam/')
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:38:05.156
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:38:05.158
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:38:14.536
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:38:14.537
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:38:42.993
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:697)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:38:42.994
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2026-05-26 17:40:08.722
+!MESSAGE An exception occurred during push on URI https://github.com/LanaVin951/GraduationTeam: https://github.com/LanaVin951/GraduationTeam: git-receive-pack not permitted on 'https://github.com/LanaVin951/GraduationTeam/'
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: git-receive-pack not permitted on 'https://github.com/LanaVin951/GraduationTeam/'
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:353)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/LanaVin951/GraduationTeam: git-receive-pack not permitted on 'https://github.com/LanaVin951/GraduationTeam/'
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:704)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:639)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:543)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1557)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 17:40:08.723
+!MESSAGE Can't connect to any repository: https://github.com/LanaVin951/GraduationTeam (https://github.com/LanaVin951/GraduationTeam: git-receive-pack not permitted on 'https://github.com/LanaVin951/GraduationTeam/')
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 17:47:32.901
+!MESSAGE Разрыв соединения между проектом Graduation и информационной базой Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 17:47:32.908
+!MESSAGE Остановка агента конфигуратора для информационной базы Graduation
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 17:47:50.239
+!MESSAGE AI response /api/v1/create_session
+status code: 401
+duration: PT0.0336597S
+(POST https://code.1c.ai/api/v1/create_session) 401
+{"error":"No token provided","error_type":"no_token"}
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 17:47:50.258
+!MESSAGE AI HTTP session response status code is 401
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 17:48:24.377
+!MESSAGE AI HTTP session response status code is 401
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 17:49:43.093
+!MESSAGE AI response /api/v1/create_session
+status code: 401
+duration: PT0.0257852S
+(POST https://code.1c.ai/api/v1/create_session) 401
+{"error":"No token provided","error_type":"no_token"}
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 17:49:43.107
+!MESSAGE AI HTTP session response status code is 401
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 17:49:43.297
+!MESSAGE AI HTTP session response status code is 401
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 17:49:49.742
+!MESSAGE AI HTTP session response status code is 401
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2026-05-26 17:50:19.440
+!MESSAGE Переключение на ветку master
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 17:50:19.527
+!MESSAGE Ожидание синхронизации проекта...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 17:50:34.959
+!MESSAGE Установка соединения для проекта Graduation и информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 17:50:34.963
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 17:51:40.289
+!MESSAGE AI response /api/v1/create_session
+status code: 401
+duration: PT0.0582519S
+(POST https://code.1c.ai/api/v1/create_session) 401
+{"error":"No token provided","error_type":"no_token"}
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 17:51:40.319
+!MESSAGE AI HTTP session response status code is 401
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2026-05-26 17:53:34.633
+!MESSAGE Переключение на ветку developer
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 17:53:34.728
+!MESSAGE Ожидание синхронизации проекта...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 17:53:50.164
+!MESSAGE Разрыв соединения между проектом Graduation и информационной базой Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 17:53:50.166
+!MESSAGE Остановка агента конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2026-05-26 18:27:57.521
+!MESSAGE Переключение на ветку master
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 18:27:57.631
+!MESSAGE Ожидание синхронизации проекта...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 18:28:13.101
+!MESSAGE Установка соединения для проекта Graduation и информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 18:28:13.103
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2026-05-26 18:36:06.022
+!MESSAGE CPU overload. Memory 4194716120 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.compare 1 0 2026-05-26 18:45:18.852
+!MESSAGE Стартовал процесс сравнения
+
+!ENTRY com._1c.g5.v8.dt.compare 1 0 2026-05-26 18:45:18.854
+!MESSAGE Запуск Main источника...
+
+!ENTRY com._1c.g5.v8.dt.compare 1 0 2026-05-26 18:45:18.857
+!MESSAGE Запуск Other источника...
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 18:45:18.861
+!MESSAGE Project context is being started: Graduation (NEW_PROJECT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:18.862
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: .virtual.1
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:18.884
+!MESSAGE Starting phase CHECKING of context ProjectContext: .virtual.1
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:18.885
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: .virtual.1
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:18.950
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: .virtual.1
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:18.951
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: .virtual.1
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 18:45:19.011
+!MESSAGE Project context is started: Graduation
+
+!ENTRY com._1c.g5.v8.dt.compare 1 0 2026-05-26 18:45:19.130
+!MESSAGE Запуск CommonAncestor источника...
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 18:45:19.133
+!MESSAGE Project context is being started: Graduation (NEW_PROJECT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:19.134
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: .virtual.2
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:19.147
+!MESSAGE Starting phase CHECKING of context ProjectContext: .virtual.2
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:19.149
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: .virtual.2
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:19.196
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: .virtual.2
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2026-05-26 18:45:19.196
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: .virtual.2
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 18:45:19.268
+!MESSAGE Project context is started: Graduation
+
+!ENTRY com._1c.g5.v8.dt.compare 1 0 2026-05-26 18:45:19.427
+!MESSAGE Все источники запущены
+
+!ENTRY com._1c.g5.v8.dt.compare 1 0 2026-05-26 18:45:19.875
+!MESSAGE Сравнение завершено
+
+!ENTRY com._1c.g5.v8.dt.compare.ui 1 0 2026-05-26 18:47:22.801
+!MESSAGE Запустить процедуру объединения?
+
+!ENTRY com._1c.g5.v8.dt.compare 1 0 2026-05-26 18:47:24.146
+!MESSAGE Стартовал процесс объединения
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 18:47:24.394
+!MESSAGE Project context is being stopped: Graduation (DELETE)-(com._1c.g5.v8.dt.core.platform.overlay-project)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 18:47:25.357
+!MESSAGE Project context is stopped: Graduation
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 18:47:25.358
+!MESSAGE Project context is being stopped: Graduation (DELETE)-(com._1c.g5.v8.dt.core.platform.overlay-project)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 18:47:25.458
+!MESSAGE Project context is stopped: Graduation
+
+!ENTRY com._1c.g5.v8.dt.compare 1 0 2026-05-26 18:47:25.489
+!MESSAGE Процесс объединения завершен
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 18:47:26.818
+!MESSAGE AI response /api/v1/create_session
+status code: 401
+duration: PT0.0223197S
+(POST https://code.1c.ai/api/v1/create_session) 401
+{"error":"No token provided","error_type":"no_token"}
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 18:47:26.844
+!MESSAGE AI HTTP session response status code is 401
+
+!ENTRY org.eclipse.egit.ui 4 0 2026-05-26 18:49:27.085
+!MESSAGE Error parsing commits from push result
+!STACK 0
+org.eclipse.jgit.errors.MissingObjectException: Missing неизвестно 13cafa904d021fa45585998e2ded7eed9cbb93cc
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:136)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:216)
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:1144)
+	at org.eclipse.jgit.revwalk.RevWalk.parseCommit(RevWalk.java:1055)
+	at org.eclipse.egit.ui.internal.push.RefUpdateElement.getCommits(RefUpdateElement.java:177)
+	at org.eclipse.egit.ui.internal.push.RefUpdateElement.getChildren(RefUpdateElement.java:198)
+	at org.eclipse.egit.ui.internal.push.RefUpdateElement.getStyledText(RefUpdateElement.java:274)
+	at org.eclipse.egit.ui.internal.push.PushResultTable$3.getStyledText(PushResultTable.java:133)
+	at org.eclipse.jface.viewers.DelegatingStyledCellLabelProvider.getStyledText(DelegatingStyledCellLabelProvider.java:209)
+	at org.eclipse.jface.viewers.DelegatingStyledCellLabelProvider.update(DelegatingStyledCellLabelProvider.java:109)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:146)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:983)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:130)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1058)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2116)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:877)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:855)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:615)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:803)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalInitializeTree(AbstractTreeViewer.java:1627)
+	at org.eclipse.jface.viewers.TreeViewer.internalInitializeTree(TreeViewer.java:791)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.lambda$1(AbstractTreeViewer.java:1612)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1397)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:366)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1358)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.inputChanged(AbstractTreeViewer.java:1606)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1641)
+	at org.eclipse.egit.ui.internal.push.PushResultTable.setData(PushResultTable.java:360)
+	at org.eclipse.egit.ui.internal.push.PushResultDialog.createDialogArea(PushResultDialog.java:106)
+	at org.eclipse.jface.dialogs.TitleAreaDialog.createContents(TitleAreaDialog.java:166)
+	at org.eclipse.egit.ui.internal.components.TitleAndImageDialog.createContents(TitleAndImageDialog.java:54)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+	at org.eclipse.jface.window.Window.open(Window.java:788)
+	at org.eclipse.egit.ui.internal.push.ShowPushResultAction.showResult(ShowPushResultAction.java:73)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJobResultAction.run(RepositoryJobResultAction.java:77)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob$2.runInUIThread(RepositoryJob.java:174)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:148)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4046)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3662)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 18:50:14.496
+!MESSAGE AI response /api/v1/create_session
+status code: 401
+duration: PT0.0423951S
+(POST https://code.1c.ai/api/v1/create_session) 401
+{"error":"No token provided","error_type":"no_token"}
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 18:50:14.528
+!MESSAGE AI HTTP session response status code is 401
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2026-05-26 18:55:38.309
+!MESSAGE Переключение на ветку developer
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 18:55:38.398
+!MESSAGE Ожидание синхронизации проекта...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 18:55:53.845
+!MESSAGE Разрыв соединения между проектом Graduation и информационной базой Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 18:55:53.847
+!MESSAGE Остановка агента конфигуратора для информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2026-05-26 19:18:13.344
+!MESSAGE CPU overload. Memory 4172697408 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2026-05-26 19:18:22.017
+!MESSAGE CPU overload. Memory 4191204872 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2026-05-26 19:48:51.293
+!MESSAGE Переключение на ветку master
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 19:49:02.600
+!MESSAGE Ожидание синхронизации проекта...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 19:49:03.100
+!MESSAGE Ожидание синхронизации проекта...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 19:49:19.238
+!MESSAGE Установка соединения для проекта Graduation и информационной базы Graduation
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2026-05-26 19:49:19.241
+!MESSAGE Соединение с агентом конфигуратора для информационной базы Graduation
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 21:05:13.149
+!MESSAGE AI response /api/v1/create_session
+status code: 401
+duration: PT0.0283123S
+(POST https://code.1c.ai/api/v1/create_session) 401
+{"error":"No token provided","error_type":"no_token"}
+
+!ENTRY com.e1c.edt.ai.ui.common 1 0 2026-05-26 21:05:13.176
+!MESSAGE AI HTTP session response status code is 401
