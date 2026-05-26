@@ -26,12 +26,12 @@ pipeline
         }
         stage('Syntax check') {
             steps {
-                bat 'chcp 65001\n cd C:\\GIT\\GraduationTeam\\repo1 \n vrunner syntax-check'
+                bat 'chcp 65001\n vrunner syntax-check'
             }
         }
         stage('Xunit tests') {
             steps {
-                    bat 'chcp 65001\n cd C:\\GIT\\GraduationTeam\\repo1 \n vrunner xunit'
+                    bat 'chcp 65001\n vrunner xunit'
             }
         }
     }
