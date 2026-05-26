@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1779792405965">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1779792405965" name\="axiom-jdk-full-17.0.16+12-x86_64" path\="C\:\\Program Files\\1C\\1CE\\components\\axiom-jdk-full-17.0.16+12-x86_64"/>\r\n    </vmType>\r\n</vmSettings>\r\n

@@ -1,0 +1,81 @@
+!SESSION 2026-05-26 21:20:56.973 -----------------------------------------------
+eclipse.buildId=2025.1.5.34
+java.version=21.0.5
+java.vendor=BellSoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  2025.1\1cedt\1cedtc.exe -command export --project-name Graduation --configuration-files C:\GIT\GraduationTeam\finalXml
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 2025.1\1cedt\1cedtc.exe -console -data C:\GIT\GraduationTeam\repo1\Graduation -command export --project-name Graduation --configuration-files C:\GIT\GraduationTeam\finalXml
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 21:21:12.963
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 21:21:12.977
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.e1c.g5.v8.dt.platform.standaloneserver.wst.core 1 0 2026-05-26 21:21:15.712
+!MESSAGE Начат однократный процесс перевода на новую версию: Переключение на сервер отладки, встроенный в автономный сервер.
+
+!ENTRY com._1c.g5.v8.dt.core 4 0 2026-05-26 21:21:22.969
+!MESSAGE Current Java version is not supported. One of 17.x versions is required
+!STACK 0
+com._1c.g5.v8.dt.internal.core.environmentchecker.UnsupportedJavaVersionException: Current Java version is not supported. One of 17.x versions is required
+	at com._1c.g5.v8.dt.internal.core.environmentchecker.EnvironmentCheckerService.checkJavaVersion(EnvironmentCheckerService.java:79)
+	at com._1c.g5.v8.dt.internal.core.environmentchecker.EnvironmentCheckerService.check(EnvironmentCheckerService.java:68)
+	at com._1c.g5.v8.dt.internal.core.lifecycle.ServiceProviderActivationListener$DefaultContextInitializationJob.run(ServiceProviderActivationListener.java:60)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.e1c.g5.v8.dt.cli.api 1 0 2026-05-26 21:21:23.110
+!MESSAGE Command to run:
+export --project-name Graduation --configuration-files "C:\GIT\GraduationTeam\finalXml"
+!SESSION 2026-05-26 21:23:51.517 -----------------------------------------------
+eclipse.buildId=2025.1.5.34
+java.version=21.0.5
+java.vendor=BellSoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  2025.1\1cedt\1cedtc.exe -command export --project-name Graduation --configuration-files C:\GIT\GraduationTeam\finalXml
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 2025.1\1cedt\1cedtc.exe -console -data C:\GIT\GraduationTeam\repo1\Graduation -command export --project-name Graduation --configuration-files C:\GIT\GraduationTeam\finalXml
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 21:23:57.959
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 21:23:57.970
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com._1c.g5.v8.dt.core 4 0 2026-05-26 21:24:05.763
+!MESSAGE Current Java version is not supported. One of 17.x versions is required
+!STACK 0
+com._1c.g5.v8.dt.internal.core.environmentchecker.UnsupportedJavaVersionException: Current Java version is not supported. One of 17.x versions is required
+	at com._1c.g5.v8.dt.internal.core.environmentchecker.EnvironmentCheckerService.checkJavaVersion(EnvironmentCheckerService.java:79)
+	at com._1c.g5.v8.dt.internal.core.environmentchecker.EnvironmentCheckerService.check(EnvironmentCheckerService.java:68)
+	at com._1c.g5.v8.dt.internal.core.lifecycle.ServiceProviderActivationListener$DefaultContextInitializationJob.run(ServiceProviderActivationListener.java:60)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.e1c.g5.v8.dt.cli.api 1 0 2026-05-26 21:24:05.870
+!MESSAGE Command to run:
+export --project-name Graduation --configuration-files "C:\GIT\GraduationTeam\finalXml"
+!SESSION 2026-05-26 21:25:26.312 -----------------------------------------------
+eclipse.buildId=2025.1.5.34
+java.version=21.0.5
+java.vendor=BellSoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  2025.1\1cedt\1cedtc.exe -command export --project-name Graduation --configuration-files C:\GIT\GraduationTeam\finalXml
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 2025.1\1cedt\1cedtc.exe -console -data C:\GIT\GraduationTeam\repo1\Graduation -command export --project-name Graduation --configuration-files C:\GIT\GraduationTeam\finalXml
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 21:25:33.501
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2026-05-26 21:25:33.517
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com._1c.g5.v8.dt.core 4 0 2026-05-26 21:25:41.957
+!MESSAGE Current Java version is not supported. One of 17.x versions is required
+!STACK 0
+com._1c.g5.v8.dt.internal.core.environmentchecker.UnsupportedJavaVersionException: Current Java version is not supported. One of 17.x versions is required
+	at com._1c.g5.v8.dt.internal.core.environmentchecker.EnvironmentCheckerService.checkJavaVersion(EnvironmentCheckerService.java:79)
+	at com._1c.g5.v8.dt.internal.core.environmentchecker.EnvironmentCheckerService.check(EnvironmentCheckerService.java:68)
+	at com._1c.g5.v8.dt.internal.core.lifecycle.ServiceProviderActivationListener$DefaultContextInitializationJob.run(ServiceProviderActivationListener.java:60)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.e1c.g5.v8.dt.cli.api 1 0 2026-05-26 21:25:42.080
+!MESSAGE Command to run:
+export --project-name Graduation --configuration-files "C:\GIT\GraduationTeam\finalXml"
