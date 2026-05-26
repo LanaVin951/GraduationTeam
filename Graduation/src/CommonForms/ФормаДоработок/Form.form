@@ -44,7 +44,7 @@
   </items>
   <items xsi:type="form:FormField">
     <name>Сообщение2</name>
-    <id>7</id>
+    <id>4</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -55,7 +55,7 @@
     </dataPath>
     <extendedTooltip>
       <name>Сообщение2РасширеннаяПодсказка</name>
-      <id>9</id>
+      <id>6</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -65,7 +65,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>Сообщение2КонтекстноеМеню</name>
-      <id>8</id>
+      <id>5</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>InputField</type>
@@ -125,7 +125,7 @@
       <key>ru</key>
       <value>Сообщение2</value>
     </title>
-    <id>3</id>
+    <id>2</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>
