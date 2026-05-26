@@ -20,11 +20,13 @@ pipeline
     }
     stages {
         stage('export Dt') {
-            bat script: """
-            chcp 65001
-            set _backups_folder="C:\\Backups"
-            ibcmd infobase dump --db-server=AISUS --dbms=MSSQLServer --db-name=work "%_from_folder%\\origin.dt"
-            """
+            steps {
+                bat script: """
+                chcp 65001
+                set _backups_folder="C:\\Backups"
+                ibcmd infobase dump --db-server=AISUS --dbms=MSSQLServer --db-name=work "%_from_folder%\\origin.dt"
+                """
+            }
         }
         stage('EDT to XML') {
             steps {
