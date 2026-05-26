@@ -21,7 +21,7 @@ pipeline
     stages {
         stage('EDT to XML') {
             steps {
-                bat script: '
+                bat script: """
                 chcp 65001
                 set _workspace=C:\\WS\\GraduationWS
                 set _project_name=Graduation
@@ -43,7 +43,7 @@ pipeline
                 ibcmd infobase config import --db-path=%_db_path3% %_layover_folder%
                 ibcmd infobase config apply -F --db-path=%_db_path3%
                 rd /s/q %_layover_folder%
-                '
+                """
             }
         }
         stage('Build test base') {
