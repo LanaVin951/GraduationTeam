@@ -24,7 +24,7 @@ pipeline
                 bat script: """
                 chcp 65001
                 set _backups_folder="C:\\Backups"
-                ibcmd infobase dump --db-server=AISUS --dbms=MSSQLServer --db-name=work --db-user=Администратор "%_backups_folder%\\origin.dt"
+                ibcmd infobase dump --db-server=AISUS --dbms=MSSQLServer --db-name=work --db-user=Администратор --db-pwd= "%_backups_folder%\\origin.dt"
                 """
             }
         }
