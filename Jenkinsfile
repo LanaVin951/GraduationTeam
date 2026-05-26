@@ -55,8 +55,7 @@ pipeline
                             bat "chcp 65001\n vrunner xunit"
                     }
                     catch (Exception Exc) {
-                            currentBuild.result = 'UNSTABLE'
-                        
+                            currentBuild.result = 'UNSTABLE'                      
                     }
                 }
             }
