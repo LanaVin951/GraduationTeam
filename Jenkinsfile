@@ -19,6 +19,11 @@ pipeline
         }
     }
     stages {
+        stage('EDT to XML') {
+            steps {
+                bat '1cedtcli -data C:\\WS\\GraduationWS -command export --project-name Graduation --configuration-files C:\\GIT\\GraduationTeam\\finalXml'
+            }
+        }
         stage('Build test base') {
             steps {
                 bat 'chcp 65001\n vrunner init-dev'
