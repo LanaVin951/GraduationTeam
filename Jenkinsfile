@@ -21,7 +21,7 @@ pipeline
     stages {
         stage('EDT to XML') {
             steps {
-                bat 'chcp 65001\n 1cedtcli -data C:\\WS\\GraduationWS -command export --project-name Graduation --configuration-files C:\\GIT\\GraduationTeam\\finalXml'
+                bat 'chcp 65001\n 1cedtcli -data C:\\WS\\GraduationWS -command export --project-name Graduation --configuration-files C:\\GIT\\GraduationTeam\\FilesXml'
             }
         }
         stage('Build test base') {
