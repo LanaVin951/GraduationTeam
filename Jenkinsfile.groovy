@@ -9,7 +9,7 @@ pipeline
 
     post {
         always {
-             allure commandline: 'Allure 2.41.0', includeProperties: false, jdk: '', resultPolicy: 'LEAVE_AS_IS', results: [[path: 'out/syntax-check/allure']]
+            allure commandline: 'Allure 2.41.0', includeProperties: false, jdk: '', resultPolicy: 'LEAVE_AS_IS', results: [[path: 'out/syntax-check/allure']]
         }
         failure {
             bat 'echo failure'
@@ -31,12 +31,7 @@ pipeline
         }
         stage('Xunit tests') {
             steps {
-                try {
                     bat 'chcp 65001\n cd C:\\GIT\\GraduationTeam\\repo1 \n vrunner xunit'
-                catch (Exception Exc) {
-                    currentBuild.result = 'UNSTABLE'
-                    }
-                }
             }
         }
     }
