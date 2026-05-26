@@ -32,7 +32,7 @@ pipeline
             steps {
                 bat script: """
                 chcp 65001
-                set _files_folder=C:\\GIT\\GraduationTeam\\FinalXml
+                set _files_folder=C:\\GIT\\GraduationTeam\\FilesXml
                 md %_files_folder%
                 1cedtcli -data C:\\WS\\GraduationWS -command export --project-name Graduation --configuration-files %_files_folder%
                 """
