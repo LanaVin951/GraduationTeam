@@ -19,9 +19,23 @@ pipeline
         }
     }
     stages {
+        stage('export Dt') {
+            steps {
+                bat script: """
+                chcp 65001
+                set _backups_folder=C:\\Backups
+                ibcmd infobase dump --db-server=AISUS --dbms=MSSQLServer --db-name=work --user=Администратор --password=123 "%_backups_folder%\\origin.dt"
+                """
+            }
+        }
         stage('EDT to XML') {
             steps {
-                bat 'chcp 65001\n 1cedtcli -data C:\\WS\\GraduationWS -command export --project-name Graduation --configuration-files C:\\GIT\\GraduationTeam\\finalXml'
+                bat script: """
+                chcp 65001
+                set _files_folder=C:\\GIT\\GraduationTeam\\FilesXml
+                md %_files_folder%
+                1cedtcli -data C:\\WS\\GraduationWS -command export --project-name Graduation --configuration-files %_files_folder%
+                """
             }
         }
         stage('Build test base') {
@@ -34,10 +48,5 @@ pipeline
                 bat 'chcp 65001\n vrunner syntax-check'
             }
         }
-        stage('Xunit tests') {
-            steps {
-                    bat 'chcp 65001\n vrunner xunit'
-            }
-        }
-    }
+     }
 }

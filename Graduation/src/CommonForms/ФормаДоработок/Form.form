@@ -83,7 +83,7 @@
     </extInfo>
   </items>
   <items xsi:type="form:FormField">
-    <name>Сообщение4</name>
+    <name>Сообщение3</name>
     <id>7</id>
     <visible>true</visible>
     <enabled>true</enabled>
@@ -91,10 +91,10 @@
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>Сообщение4</segments>
+      <segments>Сообщение3</segments>
     </dataPath>
     <extendedTooltip>
-      <name>Сообщение4РасширеннаяПодсказка</name>
+      <name>Сообщение3РасширеннаяПодсказка</name>
       <id>9</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -104,7 +104,7 @@
       </extInfo>
     </extendedTooltip>
     <contextMenu>
-      <name>Сообщение4КонтекстноеМеню</name>
+      <name>Сообщение3КонтекстноеМеню</name>
       <id>8</id>
       <autoFill>true</autoFill>
     </contextMenu>
@@ -163,7 +163,7 @@
     <name>Сообщение2</name>
     <title>
       <key>ru</key>
-      <value>Сообщение2</value>
+      <value>Сообщение 2</value>
     </title>
     <id>2</id>
     <valueType>
@@ -178,10 +178,10 @@
     </edit>
   </attributes>
   <attributes>
-    <name>Сообщение4</name>
+    <name>Сообщение3</name>
     <title>
       <key>ru</key>
-      <value>Сообщение 4</value>
+      <value>Сообщение 3</value>
     </title>
     <id>3</id>
     <valueType>
